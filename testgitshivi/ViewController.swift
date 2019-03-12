@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import NewsstandKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
